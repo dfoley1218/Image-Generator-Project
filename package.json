@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s02tiqc",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0fk",
+
   "scripts": {
     "start": "vite",
     "dev": "vite",
